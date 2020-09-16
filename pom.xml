@@ -24,7 +24,7 @@
                 <configuration>
                     <executable>java</executable>
                     <sourceDirectory>src</sourceDirectory>
-                    <mainClass>com.academy.git.Calculator</mainClass>
+                    <mainClass>com.academy.git.Calculator.java</mainClass>
                 </configuration>
             </plugin>
         </plugins>
