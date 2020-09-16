@@ -16,8 +16,9 @@
                 <version>3.6.0</version>
                 <executions>
                     <execution>
+                        <goals><goal>java</goal>
+                        </goals>
                         <phase>test</phase>
-                        <goals><goal>java</goal></goals>
                     </execution>
                 </executions>
                 <configuration>
