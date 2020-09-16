@@ -17,6 +17,7 @@
                      <source>1.6</source>
                      <target>1.6</target>
                   </configuration>
+                  <execution>
                     <execution>
                         <phase>test</phase>
                         <goals><goal>java</goal></goals>
