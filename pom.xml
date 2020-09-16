@@ -30,7 +30,6 @@
         </plugins>
     </build>
          <properties>
-           <maven.compiler.source>1.8</maven.compiler.source>
-           <maven.compiler.target>1.8</maven.compiler.target>
+           <java.home>/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home</java.home>
         </properties>
 </project>
