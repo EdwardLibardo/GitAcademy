@@ -23,6 +23,7 @@
                 </executions>
                 <configuration>
                     <executable>java</executable>
+                    <sourceDirectory>src</sourceDirectory>
                     <mainClass>com.academy.git.Calculator</mainClass>
                 </configuration>
             </plugin>
