@@ -17,6 +17,9 @@
                      <source>1.6</source>
                      <target>1.6</target>
                   </configuration>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>1.6.0</version>
                   <executions>
                     <execution>
                         <phase>test</phase>
